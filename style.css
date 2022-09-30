@@ -16,7 +16,6 @@ header{
         grid-template-columns:1fr;
         font-size: 16pt;
         margin: 30px 100px 0px 20px;
-        
     }
     p{
         display: grid;
@@ -24,3 +23,28 @@ header{
         font-size: 12pt;
         margin: 20px 100px 0px 20px;
     }
+    footer{
+        display: grid;
+        grid-template-columns: 300px;
+        margin: 100px;
+        row-gap: 35px;
+        }
+
+        div{
+            margin-right:50%;
+            
+        }
+    #create{
+        display: grid;
+        align-content: center;
+        border: 2px solid blue;
+        padding: 10px ;
+        
+        
+    }
+
+    #log{
+        border: 2px solid blue;
+        padding: 10px;
+    }
+    
