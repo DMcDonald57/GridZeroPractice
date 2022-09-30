@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    
+
+html{
+    background-color: beige;
+}
+header{
+    display: grid;
+    grid-template-columns: 1fr;
+    }
+    h1{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        font-size: 16pt;
+        margin-top: 40px;
+    }
